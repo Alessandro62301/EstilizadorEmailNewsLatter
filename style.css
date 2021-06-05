@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 600px;
+}
+.menu textarea{
+    height: 600px;
+    width: 200px;
+    resize: none;
+}
+.menu button{
+    width: 200px;
+    height: 50px;
+}
+.menu input{
+    width: 200px;
+    height: 50px;
+}
